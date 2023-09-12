@@ -1,0 +1,30 @@
+.nickname {
+  color: #84dd63;
+  font-family: monospace;
+  text-align: center;
+  font-size: 72px;
+}
+
+.socials {
+  margin-top: 35px;
+  color: #cbff4d;
+  margin: 20px;
+}
+.github {
+  width: 120px;
+  height: 120px;
+}
+
+body {
+  background-color: #121619;
+}
+
+p {
+  margin-top: 10px;
+}
+
+h1,
+h6 {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}

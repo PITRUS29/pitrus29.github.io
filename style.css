@@ -8,13 +8,12 @@
 .socials {
   margin-top: 35px;
   color: #cbff4d;
-  margin: 20px;
-  padding: 20px;
 }
-.github {
+.social {
   width: 120px;
   height: 120px;
 }
+
 
 body {
   background-color: #121619;
